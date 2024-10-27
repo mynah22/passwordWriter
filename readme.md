@@ -24,5 +24,6 @@ This is a very simple way to type text using a raspberry pi pico microcontroller
 
 - Plug into PC without pressing the GP27 button for normal operation
 - LED will not 'breathe'
+- `CIRCUITPY` drive will not appear
 - press the button to type out the contents of the `string.txt` file
   - LED will blink rapidly when button press is detected
