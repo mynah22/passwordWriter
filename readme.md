@@ -7,7 +7,7 @@ This is a very simple way to type text using a raspberry pi pico microcontroller
 1. flash an rp2040 pico with a circuitpython 9 uf2 file
     - latest can be found in this repo in the [firmware folder](https://github.com/mynah22/passwordWriter/firmware)
     - hold down the BOOTSEL button on the pico when plugging into PC
-    - a USB storage device name `RPI-RP2` will appear, copy the uf2 file to that
+    - a USB storage device named `RPI-RP2` will appear, copy the uf2 file to that
     - after it finishes copying, the pico will reboot and a `CIRCUITPY` usb storage device will appear
 2. copy files to circuitpython drive
 3. connect button from GP27 to ground on the pico
